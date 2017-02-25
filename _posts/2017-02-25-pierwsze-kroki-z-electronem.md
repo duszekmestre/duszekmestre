@@ -138,4 +138,4 @@ Tym wpisem zakończę pierwsze kroki z electronem. W kolejnym wpisie dodamy do t
 Wszystkie źródła do kodu, który będzie rósł razem z wpisami można zobaczyć pod w moim repozytorium: [https://github.com/duszekmestre/MassCo][1]
 
 
-  [1]: https://github.com/duszekmestre/MassCo/blob/master/blog/Assets/img/HelloWorld.PNG?raw=true
+  [1]: {{ site.baseurl }}/images/HelloWorld.PNG
