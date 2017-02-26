@@ -10,6 +10,7 @@ Przy ostatnim poście mocno się namęczyłem aby Wam przekazać te wszystkie in
 
 ## Laverna - markdown notepad ##
 Zauważyłem ostatnio, że bardzo ciężko mi się pisze na różnych blogach a to głównie dlatego, że zamiast skupić się na pisaniu to wciąż skupiam na narzędziu. Ono mnie rozprasza. Zrobiłem zatem mały research. Wiedziałem już wcześniej, że istnieje coś takiego jak markdown. Markdown jest składnią pisania tekstu, która przy zastosowaniu narzędzi kowertuje prosty tekst do HTML'a. Po więcej szczegółów zapraszam na [tą stronę][1]. Generalnie jeśli ktoś wcześniej miał do czynienia z LaTEX to będzie wiedział o co mniej więcej chodzi z markdown. Generalnie cel jest ten sam.
+
 Do edycji markdown nie trzeba używać zaawansowanych notatników. Wystarczy najzwyklejszy notatnik z Windowsa. ALE. Jak z każdym jezykiem programowania lub czymkolwiek bardziej zaawansowanym niż sam tekst warto korzystać z edytorów. Mimo iż kod piszę zazyczaj w Visual Studio to jest on zdecydowanie za ciężki. Wersja VS Code natomiast już jest lekka i zawiera podpowiedzi składni Markdown. Jednakże wciąż mi tam brakuje czegoś takiego jak Live Preview. Jak wiecie zaczynam swoją przygodę z Electronem. Toteż przeglądając aplikacje wykorzystujace framework Electron napotkałem kilka [edytorów Markdown][2]. Generalnie wszystkie wydają się być spoko. Mnie natomiast przyciągnął edytor o nazwie [Laverna][3]. Generalnie jest to nie tyle edytor co notatnik, w którym mozna używać skłądni Markdown. Posiada dodatkowo kilka funkcji:
 
  1. Edycja z podglądem na żywo
@@ -27,7 +28,9 @@ Póki co wykorzystuję ok połowy  funkcji. Ale kto wie. Może z czasem będzie 
 No tak. Edytor wybrany... Ale co z blogiem? No i tutaj generalnie geneza powinna być zgoła inna. Najpierw wybór dobrego bloga, a potem dostosowanie się z tekstem do niego. Ale jak to ze mną bywa - lubię robić na opak. Ostatni post przy użyciu markdown napisałem w mniej niż godzinę. Problemem napotkałem dopiero, gdy napisany tekst musiałem wrzucić na dotychczasowego bloga. Niestety mają oni swoją własną składnię. Więc aczałem znów prowadzić research. Poszukiwałem bloga, który da mi możliwość wrzucania treści w składni markdown. 
 ...
 Co się okazało? Są tylko wyjątki, które to umożliwiają. Pierwszy z nich to platforma [Ghost][4]. Wszystko byłoby spoko ale 19$ miesięcznie troszkę mi się nie widzi. :/
+
 Kolejny przykład to [logdown][5]. I w sumie było wszystko spoko... Ale troszkę sie bałem, że to średnio popularny serwis, który może w każdej chwili zniknąć i mój blog wraz z nim... Po prostu wewnętrzne przeczycie mówiło mi - daj sobie z tym spokój.
+
 Ostatnim bastionem, który mi się przewijał nonstop podczas researchu był... [github][6]! Okazuje się, że nie tylko mozemy tam hostować swoje repozytoria ale takze mieć własną stronę. Może nie tyle własną co z założenia chodzi o stronę własnego projektu. I w sumie tam jest wszystko to, czego potrzebowałem. Github pod spodem wykorzystuje Jekyll (silnik do konwersji skłądni Markdown do stron statycznych/blogów). Rozwiazanie jak dla mnie - idealne!
 
 ## Krok po kroku ##
@@ -81,7 +84,7 @@ Powyższy pochodzi z aktualnego postu. Dzięki temu Jekyll wie jakiego layoutu u
 Rss jest już w tym layoucie zaimplementowany. Ja jednak lekko go zmodyfikowałem bo wrzucał on całego posta do opisu w rss. W pliku feed.xml Powinniśmy zastąpić linijkę description w taki sposób:
 
 ```xml
-<description>{{ site.description | xml_escape }}</description>
+{{ site.description | xml_escape }}
 ```
 
 Dzięki temu będziemy mieli w RSS skrócony opis wpisu.
