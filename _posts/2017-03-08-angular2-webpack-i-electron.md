@@ -2,13 +2,13 @@
 layout:     post
 title:      Angular 2.0 + Webpack i Electron
 date:       2017-03-08 19:00
-summary:    Angular 2 z Webpackiem dla mnie to wciąż wielka zmora. Na każdej stronie jest masa poradników, tutoriali ale niestety tak wiele z nich wymaga już troszkę większej wiedzy od osób (node, npm, ...). A w tym momencie nie dość, że ja tej wiedzy nie posiadam, to jeszcze próbuję to złączyć z Electronem! Zapraszam do lektury i przejscia ze mną tej przeygody.
+summary:    Angular 2 z Webpackiem dla mnie to wciąż wielka zmora. Na każdej stronie jest masa poradników, tutoriali ale niestety tak wiele z nich wymaga już troszkę większej wiedzy od osób (node, npm, ...). A w tym momencie nie dość, że ja tej wiedzy nie posiadam, to jeszcze próbuję to złączyć z Electronem! Zapraszam do lektury i przejscia ze mną tej przygody.
 tags:       DSP2017 MassCo angular2 webpack electron
 categories: dsp2017
 ---
 
 
-Angular 2 z Webpackiem dla mnie to wciąż wielka zmora. Na każdej stronie jest masa poradników, tutoriali ale niestety tak wiele z nich wymaga już troszkę większej wiedzy od osób (node, npm, ...). A w tym momencie nie dość, że ja tej wiedzy nie posiadam, to jeszcze próbuję to złączyć z Electronem! Zapraszam do lektury i przejscia ze mną tej przeygody.
+Angular 2 z Webpackiem dla mnie to wciąż wielka zmora. Na każdej stronie jest masa poradników, tutoriali ale niestety tak wiele z nich wymaga już troszkę większej wiedzy od osób (node, npm, ...). A w tym momencie nie dość, że ja tej wiedzy nie posiadam, to jeszcze próbuję to złączyć z Electronem! Zapraszam do lektury i przejscia ze mną tej przygody.
 
 ## "Szybki" start z Angularem 2 ##
 
