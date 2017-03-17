@@ -39,3 +39,7 @@ Technologia? Tutaj główną rolę spełni ASP.NET Web API w wersji 2. A co gł�
 ## Do usłyszenia! ##
 
 Trzymajcie się i do poczytania wkrótce!
+
+Warto zajrzeć: [Token Authentication: The Secret to Scalable User Management][1]
+
+  [1]: https://stormpath.com/blog/token-authentication-scalable-user-mgmt
