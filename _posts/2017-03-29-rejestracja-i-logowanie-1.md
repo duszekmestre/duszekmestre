@@ -105,7 +105,6 @@ private async Task<ClaimsIdentity> GetIdentityAsync(HttpContext context, Authent
 
     var userAccount = await unitOfWork.AccountRepository.GetAsync(request.AccountId);
 
-    // HACK: Temporary solution
     if (userAccount == null || !userAccount.IsConfirmed)
     {
         return null;
@@ -114,7 +113,6 @@ private async Task<ClaimsIdentity> GetIdentityAsync(HttpContext context, Authent
     var cache = serviceProvider.GetService<IDistributedCache>();
     var code = await cache.GetStringAsync(userAccount.Id.ToString());
 
-    // TODO: Validate request.ConfirmationCode
     if (request.ConfirmationCode == code)
     {
         return new ClaimsIdentity(new GenericIdentity(userAccount.Id.ToString(), "Token"), new Claim[] { });
