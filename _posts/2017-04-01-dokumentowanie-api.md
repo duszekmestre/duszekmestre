@@ -43,7 +43,7 @@ services.AddSwaggerGen(c =>
 
 Do serwisów dodaliśmy generator Swaggera wraz z konfiguracją. To jest nasza pierwsza wersja dlatego v1 + informacje kontaktowe, które będą wyświetlanie na stronie dokumentacji. Kolejna konfiguracja służy do tego, aby Swagger podczas generowania wziął pod uwagę komentarze dokumentujące z kodu. We właściwościach projektu należy zaznaczyć tak jak poniżej:
 
-![Project properties][2]
+![Project properties][3]
 
 Dzięk itemu po uruchomieniu projektu wygeneruje się z naszych komentarzy plik XML, który zostanie użyty przez Swaggera. Ale do uruchomienia samego Swaggera potrzebna jest jeszcze jedna rzecz w metodzie *Configure*:
 
@@ -59,7 +59,7 @@ app.UseSwaggerUI(c =>
 
 I to w sumie wszystko. Teraz wystarczy, że uruchomimy projekt i przejdziemy pod ścieżkę **/docs/** i mamy dokumentację:
 
-![Swagger generated docs][3]
+![Swagger generated docs][4]
 
 ### Podsumowanie ###
 
