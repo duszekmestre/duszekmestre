@@ -293,6 +293,12 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerF
 }
 ```
 
+Bardzo ważna kwestia:
+
+**ConfigureAuth musi pojawić się przed UseMvc.**
+
+Dlaczego? kolejność Middleware jest ważna. I gdyby UseMvc pojawiło się pierwsze - wtedy akcje MVC wpięły by się w routing i widzac atrybut **Authorize** przejęłoby kontrolę nad jego obsługa i jako odpowiedź dostamieny *401 Unauthorized*.
+
 2. Nad metodą ValueController dodajemy atrybut [Authorize]
 
 ```csharp
