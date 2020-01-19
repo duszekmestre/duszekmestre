@@ -1,10 +1,10 @@
 # Site settings
 title:       duszekmestre
-email:       duszekmestre@hotmail.com
+email:       admin@duszekmestre.pl
 author:      duszekmestre
 description: "duszekmestre blog"
 baseurl:     ""
-url:         "https://duszekmestre.github.io/"
+url:         "https://duszekmestre.pl/"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -44,12 +44,12 @@ facebook_comments_number: 10
 # Social icons
 github_username: duszekmestre
 bitbucket_username:
-stackoverflow_id:
+stackoverflow_id: 1910057
 twitter_username:
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: larciszewski
 angellist_username:
 medium_id:
 bitcoin_url:
