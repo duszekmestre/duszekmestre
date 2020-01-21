@@ -1,20 +1,4 @@
-# Build settings
-github: [metadata]
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-seo-tag
-paginate: 5
-paginate_path: "/blog/page/:num/"
-sass:
-  style: compressed
-markdown:     kramdown
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
-
-# site settings
+# meta
 title: duszekmestre
 email: admin@duszekmestre.pl
 description: >- # this means to ignore newlines until "baseurl:"
@@ -25,10 +9,13 @@ url: "https://duszekmestre.pl" # the base hostname & protocol for your site, e.g
 twitter_username: larciszewski
 github_username:  duszekmestre
 
+# site settings
 date_format: "%b %-d, %Y"
+paginate: 5
+paginate_path: "/blog/page/:num/"
 
 # features switches
-show_social_icons:    true
+show_social_icons: true
 
 # Google services
 google_verification:
@@ -56,11 +43,19 @@ social:
     - https://github.com/duszekmestre
 lang: en_US
 
-include:
-  - _includes
-  - _layouts
-  - _posts
-  - _sass
+# Build settings
+github: [metadata]
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+sass:
+  style: compressed
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
 exclude:
   - Gemfile
   - Gemfile.lock

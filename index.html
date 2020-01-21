@@ -2,13 +2,17 @@
 layout: landing
 ---
 
-<svg width="100%" height="100%" viewBox="280 -100 100 900" xmlns="http://www.w3.org/2000/svg"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
-    <path id="path" d="m0,100 h1200">
-        <animate attributeName="d" from="m0,100 h0" to="m0,100 h1200" dur="2s" begin="0s" restart="never" />
-    </path>
-    <text font-size="100" font-family="Quicksand" fill="#000000">
-        <textPath xlink:href="#path">duszekmestre
-        </textPath>
-    </text>
+<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet" viewBox="0 0 200 100"
+    xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <path id="svg-text" d="M 50 50 H 200">
+            <animate attributeName="d" from="m50,50 h0" to="m50,50 h100" dur="2s" begin="0s" restart="never" />
+        </path>
+
+        <text>
+            <textPath xlink:href="#svg-text" x="50%" method="stretch" lengthAdjust="spacingAndGlyphs">
+                duszekmestre
+            </textPath>
+        </text>
+    </g>
 </svg>
