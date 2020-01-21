@@ -9,9 +9,11 @@
     <link rel="stylesheet" href="{{ include.css | relative_url }}">
 
     {%- feed_meta -%}
+
     {% if site.show_social_icons or site.show_sharing_icons %}
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
     {% endif %}
+
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
     {%- endif -%}

@@ -106,3 +106,28 @@ p {
     font-size: 1.5em;
   }
 }
+
+.centered {
+  display: flex;
+
+  .measure {
+    width: auto;
+    margin: auto;
+  }
+}
+
+.invoice-data {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  p,
+  span {
+    margin: 0;
+    font-size: 1.3em;
+  }
+
+  .justify-left {
+    text-align: left;
+  }
+}
