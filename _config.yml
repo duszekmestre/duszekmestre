@@ -9,6 +9,10 @@ paginate: 5
 paginate_path: "/blog/page/:num/"
 sass:
   style: compressed
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
 
 # site settings
 title: duszekmestre
@@ -51,3 +55,11 @@ social:
     - https://www.linkedin.com/in/larciszewski
     - https://github.com/duszekmestre
 lang: en_US
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - README.md
+  - screenshot.png
+  - vendor
