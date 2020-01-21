@@ -4,7 +4,7 @@ title:      Konfiguracja w ASP.NET Core
 date:       2017-04-06 18:32
 summary:    Gdy odkryłem możliwości, które daje mi konfiguracja pojawił się uśmiech na mojej twarzy. Uśmiech postępu. Dlaczego? Przekonajcie się sami.
 tags:       DSP2017 .NET Core Configuration
-categories: dsp2017
+
 ---
 
 Gdy odkryłem możliwości, które daje mi konfiguracja pojawił się uśmiech na mojej twarzy. Uśmiech postępu. Dlaczego? Przekonajcie się sami.

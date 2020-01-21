@@ -4,7 +4,7 @@ title:      localStorage - magazyn w przeglądarce
 date:       2017-04-18 19:42
 summary:    Często potrzebujemy po stronie klienta przechowywać różnego rodzaju dane, które aplikacja internetowa może potem wykorzystywać. Ciasteczka niezbyt do tego się nadają. Z pomocą przychodzi nam localStorage.
 tags:       DSP2017 localStorage HTML5
-categories: dsp2017
+
 ---
 
 Często potrzebujemy po stronie klienta przechowywać różnego rodzaju dane, które aplikacja internetowa może potem wykorzystywać. Ciasteczka niezbyt do tego się nadają. Z pomocą przychodzi nam localStorage.

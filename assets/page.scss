@@ -1,0 +1,108 @@
+---
+---
+
+body {
+  margin: 0;
+  padding: 0 1.2em;
+  color: #000000;
+  font-family: Quicksand;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0 0 0.5em;
+  font-weight: 500;
+  line-height: 1.1;
+}
+
+h1 {
+  font-size: 2.25em;
+} /* 36px */
+h2 {
+  font-size: 1.75em;
+} /* 28px */
+h3 {
+  font-size: 1.375em;
+} /* 22px */
+h4 {
+  font-size: 1.125em;
+} /* 18px */
+h5 {
+  font-size: 1em;
+} /* 16px */
+h6 {
+  font-size: 0.875em;
+} /* 14px */
+
+p {
+  margin: 0 0 1.5em;
+  line-height: 1.5;
+}
+
+.container {
+  max-width: 50em;
+  margin: 0 auto;
+  background-color: #fff;
+}
+
+.header {
+  padding: 1em 1.25em;
+  height: 4em;
+
+  .logo {
+    text-align: center;
+
+    .site-title {
+      text-decoration: none;
+      color: #000000;
+      float: none;
+    }
+  }
+}
+
+.posts {
+  .post {
+    .post-date {
+      color: #7a7a7a;
+      font-size: 1em;
+    }
+
+    .post-link {
+      text-decoration: none;
+      color: #000000;
+
+      h3 {
+        font-weight: bold;
+      }
+    }
+  }
+}
+
+.pagination {
+  text-align: center;
+  font-size: 1.2em;
+
+  a,
+  span,
+  strong {
+    text-decoration: none;
+    margin: 0 10px;
+    color: #000000;
+  }
+}
+
+#social-icons {
+  margin: 2em 0;
+  text-align: center;
+  word-spacing: 1em;
+
+  a {
+    color: #000000;
+    text-decoration: none;
+    font-size: 1.5em;
+  }
+}

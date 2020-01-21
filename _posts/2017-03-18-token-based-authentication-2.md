@@ -4,7 +4,7 @@ title:      Token based authentication - cz. 2
 date:       2017-03-18 22:00
 summary:    Dzisiaj znów troszkę kodowania. Pierwsze kroki ku przygotowaniom do logowania i rejestracji w ASP.NET Core Web API. Zapraszam.
 tags:       DSP2017 token asp.net authentication
-categories: dsp2017
+
 ---
 
 Dzisiaj znów troszkę kodowania. Pierwsze kroki ku przygotowaniom do logowania i rejestracji w ASP.NET Core Web API. Zapraszam.

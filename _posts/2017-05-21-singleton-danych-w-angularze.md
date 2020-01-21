@@ -4,7 +4,7 @@ title:      Singleton danych w angularze?
 date:       2017-05-21 16:00
 summary:    Czy zawsze musimy odświeżać dane po każdej akcji? A może dąłoby się to zrobić troszkę inaczej i lżej? Sami zobaczcie.
 tags:       DSP2017 angular4 service
-categories: dsp2017
+
 ---
 
 Czy zawsze musimy odświeżać dane po każdej akcji? A może dąłoby się to zrobić troszkę inaczej i lżej? Sami zobaczcie.

@@ -4,7 +4,7 @@ title:      Planowanie
 date:       2017-04-21 21:32
 summary:    Planowanie to jeden z najważniejszych procesów w każdej pracy. Nie każdy umie to robić. Nie każdy też lubi to robić. Ale mimo wszystko u każdej osoby daje to wymierne korzyści. Jakie? Przekonajcie się sami.
 tags:       DSP2017 agile planning
-categories: dsp2017
+
 ---
 
 Planowanie to jeden z najważniejszych procesów w każdej pracy. Nie każdy umie to robić. Nie każdy też lubi to robić. Ale mimo wszystko u każdej osoby daje to wymierne korzyści. Jakie? Przekonajcie się sami.

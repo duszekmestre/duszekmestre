@@ -4,7 +4,7 @@ title:      Konsumpcja API w Electronie i Angular 4
 date:       2017-04-10 18:46
 summary:    Consume API - czyli jak połączyć się z naszym API z Angulara.
 tags:       DSP2017 Electron Angular4 RxJS
-categories: dsp2017
+
 ---
 
 Consume API - czyli jak połączyć się z naszym API z Angulara.

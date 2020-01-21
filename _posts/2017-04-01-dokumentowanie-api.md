@@ -4,7 +4,7 @@ title:      Dokumentowanie API
 date:       2017-04-01 20:32
 summary:    API - Application Programming Interface. Interfejs - czyli coś co wymaga instrukcji. I najlepszą instrukcją jest dobra dokumentacja. A jak zrobić dobrą dokumentację przy okazji wiele nad tym się nie napracując? Zobaczcie sami.
 tags:       DSP2017 swagger documentation asp.net core
-categories: dsp2017
+
 ---
 
 API - Application Programming Interface. Interfejs - czyli coś co wymaga instrukcji. I najlepszą instrukcją jest dobra dokumentacja. A jak zrobić dobrą dokumentację przy okazji wiele nad tym się nie napracując? Zobaczcie sami.

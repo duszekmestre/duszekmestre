@@ -4,7 +4,7 @@ title:      Finansowy ninja
 date:       2017-03-12 18:30
 summary:    Książka, która staje się natchnieniem dla ponad 22 tys. pokazuje mi jak wiele nad sobą musze jeszcze pracować.
 tags:       DSP2017 finansowy ninja
-categories: dsp2017
+
 ---
 
 Książka, która staje się natchnieniem dla ponad 22 tys. pokazuje mi jak wiele nad sobą musze jeszcze pracować.

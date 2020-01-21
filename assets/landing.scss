@@ -1,0 +1,49 @@
+---
+---
+
+body {
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  background: #ffffff;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: relative;
+  font-family: 'Quicksand', sans-serif;
+
+  * {
+    font-family: 'Quicksand', sans-serif;
+  }
+
+  svg {
+    width: 100%;
+  }
+
+  .menu {
+    position: fixed;
+    width: 100%;
+    bottom: 100px;
+    text-align: center;
+
+    a {
+        color: #000000;
+        text-decoration: underline;
+        text-transform: uppercase;
+    }
+  }
+
+  #social-icons {
+    position: fixed;
+    width: 100%;
+    bottom: 50px;
+    text-align: center;
+    word-spacing: 1em;
+    
+    a {
+        color: #000000;
+        text-decoration: none;
+        font-size: 1.5em;
+    }
+  }
+}

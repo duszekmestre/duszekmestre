@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{%- include landing-head.html -%}
+
+<body>
+
+    {{content}}
+
+    {%- include landing-menu.html -%}
+
+    {% if site.show_social_icons %}
+    {% include social_links.html %}
+    {% endif %}
+
+</body>
+
+</html>

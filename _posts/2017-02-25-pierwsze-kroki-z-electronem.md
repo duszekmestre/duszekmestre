@@ -4,7 +4,7 @@ title:      Pierwsze kroki z Electronem
 date:       2017-02-25 20:30
 summary:    Tworzymy aplikację na electronie! Dzisiaj krok po kroku przeprowadzę Was po krokach do tworzenia prostej aplikacji. Celem na dziś jest utworzenie aplikacji desktopowej z użyciem Angular 2.
 tags:       DSP2017 MassCo
-categories: dsp2017
+
 ---
 
 Tworzymy aplikację na electronie! Dzisiaj krok po kroku przeprowadzę Was po krokach do tworzenia prostej aplikacji. Celem na dziś jest utworzenie aplikacji desktopowej z użyciem Angular 2.

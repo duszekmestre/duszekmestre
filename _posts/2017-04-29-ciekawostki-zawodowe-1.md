@@ -4,7 +4,7 @@ title:      Ciekawostki zawodowe [v1]
 date:       2017-04-29 21:41
 summary:    Dzisiaj troszkę odmienny klimat wpisu. Opowiem o ciekowstce, którą ostatnio spotkałem w swojej pracy. Mam nadzieję, że Wam również rozwiązanie kiedyś się przyda.
 tags:       DSP2017 stacktrace .net
-categories: dsp2017
+
 ---
 
 Dzisiaj troszkę odmienny klimat wpisu. Opowiem o ciekawostce, którą ostatnio spotkałem w swojej pracy. Mam nadzieję, że Wam również rozwiązanie kiedyś się przyda.

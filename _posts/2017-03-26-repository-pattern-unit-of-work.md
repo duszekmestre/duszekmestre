@@ -4,7 +4,7 @@ title:      Repository Pattern & Unit Of Work w .NET Core
 date:       2017-03-26 19:56
 summary:    Wzorzec repozytorium oraz jednostka pracy - dziwne polskie tłumaczenie, które jednak ma w sobie wiele znaczenia. Dzisiejszy wpis bedzie o implementacji generycznego rozwiazania dla wzorców dostępu do danych.
 tags:       DSP2017 repository unitofwork efcore efmigrations
-categories: dsp2017
+
 ---
 
 Wzorzec repozytorium oraz jednostka pracy - dziwne polskie tłumaczenie, które jednak ma w sobie wiele znaczenia. Dzisiejszy wpis bedzie o implementacji generycznego rozwiazania dla wzorców dostępu do danych.

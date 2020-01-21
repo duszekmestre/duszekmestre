@@ -4,7 +4,7 @@ title:      Webpack i Angular 2 w Electronie
 date:       2017-03-01 21:00
 summary:    Ten temat to jeden z trudniejszych jakie musiałem ogarnać. Mimo iż kilkukrotnie przeoribem tutoriale to nadal czuję się ciemny w tym temacie. Jednak dzisiaj razem z Wami spróbuję krok po kroku przejść przez doinstalowanie webpacka i angulara 2 do naszej aplikacji w Electronie.
 tags:       DSP2017 MassCo webpack angular2 electron
-categories: dsp2017
+
 ---
 
 Ten temat to jeden z trudniejszych jakie musiałem ogarnać. Mimo iż kilkukrotnie przeoribem tutoriale to nadal czuję się ciemny w tym temacie. Jednak dzisiaj razem z Wami spróbuję krok po kroku przejść przez doinstalowanie webpacka i angulara 2 do naszej aplikacji w Electronie.

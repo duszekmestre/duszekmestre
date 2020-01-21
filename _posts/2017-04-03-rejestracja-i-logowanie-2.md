@@ -4,7 +4,7 @@ title:      Rejestracja i logowanie - cz.2, SMS
 date:       2017-04-03 17:46
 summary:    Logowanie kodem z smsa. Zróbmy to łatwo i za darmo!
 tags:       DSP2017 authentication .NET Core API SMS
-categories: dsp2017
+
 ---
 
 Logowanie kodem z smsa. Zróbmy to łatwo i za darmo!

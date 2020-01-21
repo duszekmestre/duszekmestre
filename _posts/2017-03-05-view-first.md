@@ -4,7 +4,7 @@ title:      View First - login screen
 date:       2017-03-05 17:00
 summary:    Długo myślałem nad tym jakby miał taki ekran logowani wyglądać. Hasła są kiepskim pomysłem. Bo ile można, no nie? I dlatego chcę wprowadzić two-factor authentication. Ale najpierw... Design.
 tags:       DSP2017 MassCo HTML CSS angular2 electron
-categories: dsp2017
+
 ---
 
 Długo myślałem nad tym jakby miał taki ekran logowani wyglądać. Hasła są kiepskim pomysłem. Bo ile można, no nie? I dlatego chcę wprowadzić two-factor authentication. Ale najpierw... Design.

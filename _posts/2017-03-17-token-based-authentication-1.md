@@ -4,7 +4,7 @@ title:      Token based authentication - cz. 1
 date:       2017-03-17 20:00
 summary:    Dzisiaj rozpoczynam pierwszą część, która jest jednocześnie wprowadzeniem do autentykacji na tokenach.
 tags:       DSP2017 token asp.net authentication
-categories: dsp2017
+
 ---
 
 Dzisiaj rozpoczynam pierwszą część, która jest jednocześnie wprowadzeniem do autentykacji na tokenach.

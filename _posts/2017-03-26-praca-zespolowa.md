@@ -4,7 +4,7 @@ title:      Praca zespołowa historią pisana - spowiedź programisty
 date:       2017-03-26 20:45
 summary:    Pracując wspólnie można osiagnąć bardzo wiele. Moja historia z pracą zespołową. Miłej lektury!
 tags:       DSP2017 zespół historia praca
-categories: dsp2017
+
 ---
 
 Pracując wspólnie można osiagnąć bardzo wiele. Moja historia z pracą zespołową. Miłej lektury!

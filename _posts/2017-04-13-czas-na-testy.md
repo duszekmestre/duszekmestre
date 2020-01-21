@@ -4,7 +4,7 @@ title:      Czas na testy!
 date:       2017-04-13 21:59
 summary:    Jak to się mówi - lepiej późno niż wcale. Dlatego przyszedł czas na testy i wprowadzenie w jak największym stopniu pokrycia kodu testami. Jak to zrobić?
 tags:       DSP2017 tests TDD xUnit Moq
-categories: dsp2017
+
 ---
 
 Jak to się mówi - lepiej późno niż wcale. Dlatego przyszedł czas na testy i wprowadzenie w jak największym stopniu pokrycia kodu testami. Jak to zrobić?

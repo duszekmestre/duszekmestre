@@ -4,7 +4,7 @@ title:      Blog na GitHubie
 date:       2017-02-27 07:00
 summary:    Przy ostatnim poście mocno się namęczyłem aby Wam przekazać te wszystkie informacje. Ale jednocześnie dzięki całemu temu czasowi odkryłem fajne sposoby na przyszłość. Oto kilka kroków ku temu aby pisanie bloga stało się o wiele prostsze.
 tags:       DSP2017 MassCo GitHub Jekyll blog
-categories: dsp2017
+
 ---
 
 Przy ostatnim poście mocno się namęczyłem aby Wam przekazać te wszystkie informacje. Ale jednocześnie dzięki całemu temu czasowi odkryłem fajne sposoby na przyszłość. Oto kilka kroków ku temu aby pisanie bloga stało się o wiele prostsze.
@@ -75,7 +75,7 @@ layout:     post
 title:      Blog na GitHubie
 date:       2017-02-27 07:00
 summary:    Przy ostatnim poście mocno się namęczyłem aby Wam przekazać te wszystkie informacje. Ale jednocześnie dzięki całemu temu czasowi odkryłem fajne sposoby na przyszłość. Oto kilka kroków ku temu aby pisanie bloga stało się o wiele prostsze.
-categories: DSP2017 MassCo GitHub Jekyll blog
+ MassCo GitHub Jekyll blog
 ---
 ```
 

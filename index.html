@@ -1,28 +1,14 @@
 ---
-layout: default
+layout: landing
 ---
-{% assign posts_count = (paginator.posts | size) %}
 
-<div class="home">
-  {% if posts_count > 0 %}
-    <div class="posts">
-      {% for post in paginator.posts %}
-        <div class="post py3">
-          <p class="post-meta">{{ post.date | date: site.date_format }}</p>
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
-          <p class="post-summary">
-            {% if post.summary %}
-              {{ post.summary }}
-            {% else %}
-              {{ post.excerpt }}
-            {% endif %}
-          </p>
-        </div>
-      {% endfor %}
-    </div>
-
-    {% include pagination.html %}
-  {% else %}
-    <h1 class='center'>{{ site.text.index.coming_soon }}</h3>
-  {% endif %}
-</div>
+<svg width="100%" height="100%" viewBox="280 -100 100 900" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+    <path id="path" d="m0,100 h1200">
+        <animate attributeName="d" from="m0,100 h0" to="m0,100 h1200" dur="2s" begin="0s" restart="never" />
+    </path>
+    <text font-size="100" font-family="Quicksand" fill="#000000">
+        <textPath xlink:href="#path">duszekmestre
+        </textPath>
+    </text>
+</svg>

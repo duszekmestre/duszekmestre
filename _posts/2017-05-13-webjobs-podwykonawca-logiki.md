@@ -4,7 +4,7 @@ title:      WebJobs - podwykonawca logiki
 date:       2017-05-13 18:00
 summary:    Musimy nieraz wykonać inną ważniejszą pracę i komu zlecić wykonanie tej mniej ważnej abyśmy mieli więcej czasu. Podobnie jest w aplikacjach. Czasami niepotrzebujemy zatrzymywać głównego procesu dla kilku mniej znaczących akcji.
 tags:       DSP2017 webjobs hangfire
-categories: dsp2017
+
 ---
 
 Musimy nieraz wykonać inną ważniejszą pracę i komu zlecić wykonanie tej mniej ważnej abyśmy mieli więcej czasu. Podobnie jest w aplikacjach. Czasami niepotrzebujemy zatrzymywać głównego procesu dla kilku mniej znaczących akcji.

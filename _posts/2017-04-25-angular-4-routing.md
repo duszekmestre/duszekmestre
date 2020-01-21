@@ -4,7 +4,7 @@ title:      Angular 4 routing
 date:       2017-04-25 18:00
 summary:    W electronie działamy cały czas w kontekście strony internetowej. Takiego wielkiego SPA (Single Page Application). Oczywiście możemy robić różnorakie rzeczy i np serwować jedynie statyczny content HTML z przeładowaniem całej strony. ALE. Przecież mamy Angulara! Jak zrobić routing i co to takiego?
 tags:       DSP2017 angular4 routing electron
-categories: dsp2017
+
 ---
 
 W electronie działamy cały czas w kontekście strony internetowej. Takiego wielkiego SPA (Single Page Application). Oczywiście możemy robić różnorakie rzeczy i np serwować jedynie statyczny content HTML z przeładowaniem całej strony. ALE. Przecież mamy Angulara! Jak zrobić routing i co to takiego?

@@ -4,7 +4,7 @@ title:      Rejestracja i logowanie - cz.1, API
 date:       2017-03-29 19:16
 summary:    To pierwsza część podwójnego wpisu, który będzie opowiadał o logowaniu oraz rejestracji. W tym wpisie opiszę część implementacji po stronie API.
 tags:       DSP2017 authentication .NET Core API Redis cache
-categories: dsp2017
+
 ---
 
 To pierwsza część podwójnego wpisu, który będzie opowiadał o logowaniu oraz rejestracji. W tym wpisie opiszę część implementacji po stronie API.
