@@ -56,6 +56,11 @@ social:
     - https://github.com/duszekmestre
 lang: en_US
 
+include:
+  - _includes
+  - _layouts
+  - _posts
+  - _sass
 exclude:
   - Gemfile
   - Gemfile.lock
