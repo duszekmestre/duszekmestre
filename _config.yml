@@ -6,6 +6,7 @@ plugins:
   - jekyll-seo-tag
 paginate: 5
 paginate_path: "/blog/page/:num/"
+github: [metadata]
 
 # site settings
 title: duszekmestre
